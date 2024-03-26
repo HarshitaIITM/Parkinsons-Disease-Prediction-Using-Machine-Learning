@@ -1,4 +1,4 @@
-# Parkinson-s-Disease-Prediction-Using-Machine-Learning
+# Parkinsons-Disease-Prediction-Using-Machine-Learning
 
 Description:
 
